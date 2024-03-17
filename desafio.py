@@ -1,4 +1,4 @@
-VALOR_BONUS = 100
+VALOR_BONUS = 1000
 
 # 1) Solicita ao usuário que digite seu nome
 nome_usuario = input("Digite o seu nome: ")
